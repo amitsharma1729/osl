@@ -84,3 +84,5 @@ while(choice!=7):
             sent=input()
             print("Dictionary Meaning is:%s"%(dictionary.meaning(sent)))
         meaning()
+#first change, this is the change
+        #comment change
